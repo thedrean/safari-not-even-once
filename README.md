@@ -18,7 +18,7 @@ Apple laptops are great, but Safari is not so great. I have only ever used Safar
 git
 ```
 
-*Your new mac should prompt you to install dev-tools, do it.
+⋅⋅⋅Your new mac should prompt you to install dev-tools, do it.
 
 ```bash
 git clone https://github.com/thedrean/safari-not-even-once.git
