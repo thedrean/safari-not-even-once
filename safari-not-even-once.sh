@@ -33,7 +33,7 @@ if ! brew info brew-cask &>/dev/null; then
 fi
 #install chrome and avoid safari forever
 if [ -x ~/Applications/Google\ Chrome.app ]; then 
-	echo exists; 
+	echo 'cask is installed already'; 
 else
 	brew cask install google-chrome
 fi
