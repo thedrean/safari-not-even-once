@@ -10,7 +10,7 @@ A way to install Google Chrome on a new Apple OSX laptop without ever having to 
 
 ## Motivation
 
-Apple laptops are great, but Safari is not so. I have only ever used Safari to download chrome, but on my new laptop, I did not even want to openSafari once.
+Apple laptops are great, but Safari is not so great. I have only ever used Safari to download chrome, but on my new laptop, I did not even want to open Safari once.
 
 ## Installation
 
