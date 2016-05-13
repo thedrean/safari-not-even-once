@@ -14,13 +14,13 @@ Apple laptops are great, but Safari is not so. I have only ever used Safari to d
 
 ## Installation
 
-'''bash
+'''
 git
 '''
 
 *Your new mac should prompt you to install dev-tools, do it.
 
-'''bash
+'''
 git clone https://github.com/thedrean/safari-not-even-once.git
 cd safari-not-even-once
 chmod +x safari-not-even-once.sh
