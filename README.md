@@ -4,9 +4,9 @@ A way to install Google Chrome on a new Apple OSX laptop without ever having to 
 
 ## Code Example
 
-'''bash
+```bash
 ./safari-not-even-once.sh
-'''
+```
 
 ## Motivation
 
@@ -14,18 +14,18 @@ Apple laptops are great, but Safari is not so. I have only ever used Safari to d
 
 ## Installation
 
-'''
+```bash
 git
-'''
+```
 
 *Your new mac should prompt you to install dev-tools, do it.
 
-'''
+```bash
 git clone https://github.com/thedrean/safari-not-even-once.git
 cd safari-not-even-once
 chmod +x safari-not-even-once.sh
 ./safari-not-even-once.sh
-'''
+```
 
 
 
